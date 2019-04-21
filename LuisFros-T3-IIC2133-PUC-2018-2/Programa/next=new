@@ -1,0 +1,5 @@
+Modo de uso: ./solver [test.txt] [output.txt]
+Donde:
+	[test.txt] es el archivo de input
+	[output.txt] es el nombre del archivo a escribir con el output
+¡Error abriendo los archivos!
